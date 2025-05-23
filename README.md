@@ -1,4 +1,4 @@
-# 📊 Caso Práctico Tableau - Análisis de Recursos Humanos de la empresa SRL.
+# 📊 Caso Práctico Tableau: Análisis de Recursos Humanos de la empresa SRL.
 
 Este proyecto forma parte de un caso práctico del diplomado en análisis de datos, cuyo objetivo fue aplicar conocimientos de visualización interactiva usando Tableau para explorar y comunicar hallazgos clave a partir de una base de datos real de Recursos Humanos.
 
